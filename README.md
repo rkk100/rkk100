@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rkk100
 - 👀 I’m interested in ... programming 
-- 🌱 I’m currently learning ...Dev Development 
+- 🌱 I’m currently learning ...Web Development 
 - 💞️ I’m looking to collaborate on ... intership 
 - 📫 How to reach me ...skills
 - 😄 Pronouns: ...Rohit kumar 
