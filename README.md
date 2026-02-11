@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @rkk100
-- 👀 I’m interested in ... programming 
-- 🌱 I’m currently learning ...Web Development 
-- 💞️ I’m looking to collaborate on ... intership 
-- 📫 How to reach me ...skills
+- 👀 I’m interested in ... problem-Solving
+- 🌱 I’m currently learning ...Data Analyst
+- 💞️ I’m working in Xitamin Solution Private Limited.
 - 😄 Pronouns: ...Rohit kumar 
 - ⚡ Fun fact: ... Badminton, Football, Cricket 
 
